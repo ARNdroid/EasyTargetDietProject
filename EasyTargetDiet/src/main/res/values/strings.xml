@@ -2,7 +2,24 @@
 <resources>
 
     <string name="app_name">Easy Target Diet</string>
-    <string name="action_settings">Settings</string>
+    <string name="quick_add">Quick Add</string>
     <string name="hello_world">Hello world!</string>
+
+    <string name="breakfast">Breakfast</string>
+    <string name="brunch">Brunch</string>
+    <string name="lunch">Lunch</string>
+    <string name="sneak">Sneak</string>
+    <string name="dinner">Dinner</string>
+    <string name="supper">Supper</string>
+    <string name="date">Date</string>
+    <string name="used">Used</string>
+    <string name="goal">Ideal</string>
+    <string name="favorites">Favorites</string>
+    <string name="meal">Meal</string>
+    <string name="time">Time</string>
+    <string name="description">Description</string>
+    <string name="value">Value</string>
+    <string name="list_empty_foods_usage">Nothing to show yet. Try adding some food</string>
+    <string name="delete_food_usage_msg">Delete %1$s from %2$s?</string>
 
 </resources>

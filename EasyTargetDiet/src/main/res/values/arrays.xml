@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="meals_name_list">
+        <item>@string/breakfast</item>
+        <item>@string/brunch</item>
+        <item>@string/lunch</item>
+        <item>@string/sneak</item>
+        <item>@string/dinner</item>
+        <item>@string/supper</item>
+    </string-array>
+
+</resources>
